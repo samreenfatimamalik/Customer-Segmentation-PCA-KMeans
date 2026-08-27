@@ -64,3 +64,20 @@ Customer-Segmentation-PCA-KMeans/
 ├── Customer_Personas_Summary.csv           # Persona summary table
 ├── README.md
 └── requirements.txt
+
+
+## Tech Stack
+
+Python 3.8+
+Pandas, NumPy
+Scikit-learn (StandardScaler, PCA, KMeans, Silhouette)
+Matplotlib & Seaborn
+Jupyter Notebook
+
+
+## Key Learnings
+
+Why feature scaling is mandatory for distance-based algorithms
+How PCA helps fight the Curse of Dimensionality
+How to choose optimal K using Elbow + Silhouette
+How to translate mathematical clusters into real business strategy
